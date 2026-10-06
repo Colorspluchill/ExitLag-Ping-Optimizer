@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%2F11-informational?style=for-the-badge&logo=windows&color=0078D4" alt="Windows">
   <img src="https://img.shields.io/badge/ExitLag-Compatible-success?style=for-the-badge&color=00b4d8" alt="ExitLag">
-  <img src="https://img.shields.io/badge/Version-August%202026-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-October%202026-blue?style=for-the-badge" alt="Version">
 </p>
 
 <h1 align="center">ExitLag Optimization Tool</h1>
